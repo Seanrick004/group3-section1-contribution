@@ -51,6 +51,7 @@ ul {
     font-style: normal;
     font-weight: 600;
     line-height: normal;
+    margin-bottom: 18px;
 }
 .benefits-lists-item-subtext {
     color: rgba(255, 255, 255, 0.70);
